@@ -1,0 +1,4 @@
+share tools: openapi.yaml
+type: context
+
+You have access to the Petstore API.
